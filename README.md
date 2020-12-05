@@ -1,6 +1,7 @@
 # Tsundere
 
 [![npm](https://img.shields.io/npm/v/tsundere)](https://www.npmjs.com/package/tsundere) [![minified size](https://badgen.net/bundlephobia/min/tsundere)](https://bundlephobia.com/result?p=tsundere@latest) ![dependency count](https://badgen.net/bundlephobia/dependency-count/tsundere)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftommywalkie%2Ftsundere.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftommywalkie%2Ftsundere?ref=badge_shield)
 
 Tsundere is a modern, lightweight and type-safe task runner for the stubborn ones.
 
@@ -134,3 +135,6 @@ Tsundere is licensed under [Apache License, Version 2.0](https://www.apache.org/
 
 © Copyright 2020 Tom Bazarnik.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftommywalkie%2Ftsundere.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftommywalkie%2Ftsundere?ref=badge_large)
